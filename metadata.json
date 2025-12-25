@@ -1,0 +1,7 @@
+{
+  "name": "ROIDentalAgency.com - Next-Gen Dental Receptionist",
+  "description": "An advanced AI-powered receptionist platform specifically designed for dental practices by ROIDentalAgency.com to automate scheduling, patient inquiries, and follow-ups with human-like precision.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
